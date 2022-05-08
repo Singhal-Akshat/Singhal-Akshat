@@ -1,6 +1,6 @@
 ![MasterHead](https://news.microsoft.com/wp-content/uploads/prod/2016/12/ai-revised2.gif)
 <h1 align="center">Hi 👋, I'm Akshat Singhal</h1>
-<h3 align="center">A Enthusiast and Innovator who loves coding</h3>
+<h3 align="center">An Enthusiast and Innovator who loves coding</h3>
 <img align="right" alt="My GIF" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🔭 I’m currently working on **Encrypter_Decrypter**
