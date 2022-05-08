@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **Facial Recognition**
+- 🤝 I’m looking for help with **Face Recognition**
 
 - 💬 Ask me about **Python, C++, java, OOPS, Automation Anywhere, Linux, Google cloud, AWS, Azure**
 
