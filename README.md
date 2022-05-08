@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Akshat Singhal</h1>
 <h3 align="center">An Enthusiast and Innovator who loves coding</h3>
 <img align="right" alt="My GIF" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Singhal-akshat&label=Profile%20views&color=0e75b6&style=flat" alt="singhal-akshat" /> </p>
+ -->
 - 🔭 I’m currently working on **Encrypter_Decrypter**
 
 - 🌱 I’m currently learning **Machine Learning**
