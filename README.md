@@ -4,13 +4,13 @@
 <img align="right" alt="My GIF" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Singhal-akshat&label=Profile%20views&color=0e75b6&style=flat" alt="singhal-akshat" /> </p>
 
-- 🔭 I’m currently working on **Encrypter_Decrypter**
+- 🔭 I’m currently working on **MERN App - Social Media**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Tensorflow and MERN**
 
-- 🤝 I’m looking for help with **Face Recognition**
+- 🤝 I’m looking for help with **MERN**
 
-- 💬 Ask me about **Python, C++, java, OOPS, Automation Anywhere, Linux, Google cloud, AWS, Azure**
+- 💬 Ask me about **Python, C++, Machine Learning, Deep Learning, Tensorflow, java, OOPS, Automation Anywhere, Linux, Google cloud, AWS, Azure**
 
 - 📫 How to reach me **singhal.akshat.2017453@gmail.com**
 
