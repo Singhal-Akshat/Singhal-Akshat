@@ -4,13 +4,13 @@
 <img align="right" alt="My GIF" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Singhal-akshat&label=Profile%20views&color=0e75b6&style=flat" alt="singhal-akshat" /> </p>
 
-- 🔭 I’m currently working on **MERN App - Social Media**
+- 🔭 I’m currently working on **AI Automations**
 
-- 🌱 I’m currently learning **Tensorflow and MERN**
+- 🌱 I’m currently learning **Tensorflow and N8N Agents**
 
-- 🤝 I’m looking for help with **MERN**
+- 🤝 I’m looking for help with **Agentic AI**
 
-- 💬 Ask me about **Python, C++, Machine Learning, Deep Learning, Tensorflow, java, OOPS, Automation Anywhere, Linux, Google cloud, AWS, Azure**
+- 💬 Ask me about **Python, C++, AI, LLMs, Agentic AI, Machine Learning, Deep Learning, Tensorflow, java, OOPS, Automation Anywhere, Linux, Google cloud, AWS, Azure**
 
 - 📫 How to reach me **singhal.akshat.2017453@gmail.com**
 
